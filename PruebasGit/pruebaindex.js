@@ -12,3 +12,8 @@ var num11;
 var num12;
 var num13;
 var num14;
+
+var suma;
+num1 = 5;
+num2 = 10;
+num3 = 15;
